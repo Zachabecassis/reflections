@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create a git repository in order to create commits for every time you save. You need it in order to use git. 
