@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 You create a git repository in order to create commits for every time you save. You need it in order to use git. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+you put things into the staging area before you make a commit. The commands operate on the staging area. The working director is just what is in the file.
